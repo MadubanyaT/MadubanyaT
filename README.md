@@ -29,6 +29,7 @@ Welcome to my GitHub! I’m a student on a journey to become a **penetration tes
 
 ## 🎯 Learning Path & Goals
 ✔️ Master Linux & Windows privilege escalation.  
+✔️ Explore AI applications in cybersecurity and penetration testing.  
 ✔️ Gain real-world experience through labs and CTF challenges.  
 ✔️ Contribute to open-source security projects.  
 ✔️ Earn industry-recognized certifications.  
