@@ -44,8 +44,8 @@ Welcome to my GitHub! I’m a student on a journey to become a **penetration tes
 <!-- - [CyberSec Discord & Forums](#) -->
 
 ## 📫 Connect with Me
-- 💬 Twitter: [@YourHandle](#)
-- 🔗 LinkedIn: [Your Profile](#)
-- 🌐 Personal Blog: [YourWebsite.com](#)
+- 🔗 LinkedIn: [Tshepho Madubanya](https://www.linkedin.com/in/tshepho-madubanya-188aa3251)
+<!-- - 🌐 Personal Blog: [YourWebsite.com](#)
+- 💬 Twitter: [@YourHandle](#) -->
 
 🚀 Let's hack, learn, and grow together!
