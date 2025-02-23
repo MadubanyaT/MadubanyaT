@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**MadubanyaT/MadubanyaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛡️ Aspiring Penetration Tester
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I’m a student on a journey to become a **penetration tester**, learning and applying offensive security techniques. Here, you’ll find my projects, notes, and resources related to ethical hacking, cybersecurity, and penetration testing.
+
+## 🔍 About Me
+- 🎓 Student passionate about cybersecurity and penetration testing.
+- 💻 Learning ethical hacking, red teaming, and security research.
+- 🏆 Working towards industry certifications.
+- 📚 Continuously learning about exploit development, web security, and network penetration.
+
+## 📂 Projects & Labs
+🚀 Here are some of the projects and labs I’m working on:
+- **Python URL Validator & Rater**: A Python tool that analyzes and rates URLs for security.
+- **Password Generator**: A Python-based secure password generator with customizable options.
+- **CTF Write-ups**: Solutions to challenges from HackTheBox, TryHackMe, VulnHub and other platforms
+- **Penetration Testing Labs**: Hands-on practice with vulnerable machines
+<!-- - **Custom Exploits & Scripts**: Writing and testing custom attack scripts
+- **Bug Bounty Research**: Documenting vulnerabilities and responsible disclosure reports -->
+
+## 🛠️ Skills & Tools
+- **Operating Systems:** Kali Linux, Windows
+- **Pentesting Tools:** Burp Suite, Wireshark
+- **Programming/Scripting:** Python, SQL, javascript
+- **Web Security:** OWASP Top 10, XSS, SQL Injection
+<!-- - **Exploitation & Reverse Engineering:** Buffer Overflow, Privilege Escalation, Malware Analysis -->
+
+
+## 🎯 Learning Path & Goals
+✔️ Master Linux & Windows privilege escalation.  
+✔️ Gain real-world experience through labs and CTF challenges.  
+✔️ Contribute to open-source security projects.  
+✔️ Earn industry-recognized certifications.
+✔️ Transition into a professional penetration testing role.
+✔️ Being part of the Red Team. 
+
+## 📖 Resources I Use
+- [Hack The Box](https://www.hackthebox.com/)
+- [TryHackMe](https://tryhackme.com/)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [VulnHub](https://vulnhub.com/)
+<!-- - [PentesterLab](https://pentesterlab.com/) -->
+<!-- - [CyberSec Discord & Forums](#) -->
+
+## 📫 Connect with Me
+- 💬 Twitter: [@YourHandle](#)
+- 🔗 LinkedIn: [Your Profile](#)
+- 🌐 Personal Blog: [YourWebsite.com](#)
+
+🚀 Let's hack, learn, and grow together!
