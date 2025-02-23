@@ -31,8 +31,8 @@ Welcome to my GitHub! I’m a student on a journey to become a **penetration tes
 ✔️ Master Linux & Windows privilege escalation.  
 ✔️ Gain real-world experience through labs and CTF challenges.  
 ✔️ Contribute to open-source security projects.  
-✔️ Earn industry-recognized certifications.
-✔️ Transition into a professional penetration testing role.
+✔️ Earn industry-recognized certifications.  
+✔️ Transition into a professional penetration testing role.  
 ✔️ Being part of the Red Team. 
 
 ## 📖 Resources I Use
