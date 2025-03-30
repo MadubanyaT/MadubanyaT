@@ -38,7 +38,7 @@ Welcome to my GitHub! I’m a student on a journey to become a **penetration tes
 
 ## 📖 Resources I Use
 - [Hack The Box](https://www.hackthebox.com/)
-- [TryHackMe](https://tryhackme.com/)
+- [TryHackMe](https://tryhackme.com/p/TshephoM)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [VulnHub](https://vulnhub.com/)
 <!-- - [PentesterLab](https://pentesterlab.com/) -->
