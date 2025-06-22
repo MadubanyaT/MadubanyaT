@@ -12,8 +12,8 @@ Welcome to my GitHub! I’m a student on a journey to become a **penetration tes
 
 ## 📂 Projects & Labs
 🚀 Here are some of the projects and labs I’m working on:
-- **Python URL Validator & Rater**: A Python tool that analyzes and rates URLs for security.
-- **Password Generator**: A Python-based secure password generator with customizable options.
+- **Python URL Validator & Rater**: A Python tool that analyses and rates URLs for security.
+- **Password Generator**: A Python-based secure password generator with customisable options.
 - **CTF Write-ups**: Solutions to challenges from HackTheBox, TryHackMe, VulnHub and other platforms
 - **Penetration Testing Labs**: Hands-on practice with vulnerable machines
 <!-- - **Custom Exploits & Scripts**: Writing and testing custom attack scripts
@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m a student on a journey to become a **penetration tes
 ## 🛠️ Skills & Tools
 - **Operating Systems:** Kali Linux, Windows
 - **Pentesting Tools:** Burp Suite, Wireshark
-- **Programming/Scripting:** Python, SQL, javascript
+- **Programming/Scripting:** Python, Bash, SQL, JavaScript
 - **Web Security:** OWASP Top 10, XSS, SQL Injection
 <!-- - **Exploitation & Reverse Engineering:** Buffer Overflow, Privilege Escalation, Malware Analysis -->
 
@@ -31,16 +31,15 @@ Welcome to my GitHub! I’m a student on a journey to become a **penetration tes
 ✔️ Master Linux & Windows privilege escalation.  
 ✔️ Explore AI applications in cybersecurity and penetration testing.  
 ✔️ Gain real-world experience through labs and CTF challenges.  
-✔️ Contribute to open-source security projects.  
-✔️ Earn industry-recognized certifications.  
+✔️ Earn industry-recognised certifications.  
 ✔️ Transition into a professional penetration testing role.  
 ✔️ Being part of the Red Team. 
 
 ## 📖 Resources I Use
-- [Hack The Box](https://www.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/p/TshephoM)
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
 - [VulnHub](https://vulnhub.com/)
+<!-- - [OWASP Top 10](https://owasp.org/www-project-top-ten/)-->
 <!-- - [PentesterLab](https://pentesterlab.com/) -->
 <!-- - [CyberSec Discord & Forums](#) -->
 
