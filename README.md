@@ -35,13 +35,6 @@ Welcome to my GitHub! I’m a student on a journey to become a **penetration tes
 ✔️ Transition into a professional penetration testing role.  
 ✔️ Being part of the Red Team. 
 
-## 📖 Resources I Use
-- [TryHackMe](https://tryhackme.com/p/TshephoM)
-
-- [VulnHub](https://vulnhub.com/)
-<!-- - [OWASP Top 10](https://owasp.org/www-project-top-ten/)-->
-<!-- - [PentesterLab](https://pentesterlab.com/) -->
-<!-- - [CyberSec Discord & Forums](#) -->
 
 ## 📫 Connect with Me
 - 🔗 LinkedIn: [Tshepho Madubanya](https://www.linkedin.com/in/tshepho-madubanya-188aa3251)
