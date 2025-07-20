@@ -5,7 +5,7 @@
 Welcome to my GitHub! I’m a student on a journey to become a **penetration tester**, learning and applying offensive security techniques. Here, you’ll find my projects, notes, and resources related to ethical hacking, cybersecurity, and penetration testing.
 
 ## 🔍 About Me
-- 🎓 Student passionate about cybersecurity and penetration testing.
+- 🎓 Student passionate about back-end development, cybersecurity, and penetration testing.
 - 💻 Learning ethical hacking, red teaming, and security research.
 - 🏆 Working towards industry certifications.
 - 📚 Continuously learning about exploit development, web security, and network penetration.
